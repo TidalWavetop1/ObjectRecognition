@@ -12,5 +12,6 @@ data/raw/mitbih_test.csv
 
 # Python environment
 __pycache__/
+.ipynb_checkpoints/
 .venv/
 .env
